@@ -3,7 +3,7 @@
 # Run phpmyadmin via docker
 
 docker run \
-    --name myadmin \
+    --name stormy_myadmin \
     -d \
     --link stormy_mysql:db \
     -p 8080:80 \
