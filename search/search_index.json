@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "d-phpmyadmin\n\n\nphpMyAdmin is a web interface for interacting with \nMySQL databases. \n\n\nTo run a stock image:\n\n\n./run_stock_phpmyadmin.sh",
+            "title": "Home"
+        },
+        {
+            "location": "/#d-phpmyadmin",
+            "text": "phpMyAdmin is a web interface for interacting with \nMySQL databases.   To run a stock image:  ./run_stock_phpmyadmin.sh",
+            "title": "d-phpmyadmin"
+        }
+    ]
+}
