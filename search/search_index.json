@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "d-phpmyadmin\n\n\nphpMyAdmin is a web interface for interacting with \nMySQL databases. This is run as part of the charlesreid1.com\ndocker pod.\n\n\nTo run a stock image:\n\n\n./run_stock_phpmyadmin.sh\n\n\n\n\nTo run as part of a docker pod,\nsee \npod-charlesreid1\n.",
+            "text": "d-phpmyadmin\n\u00b6\n\n\nphpMyAdmin is a web interface for interacting with \nMySQL databases. This is run as part of the charlesreid1.com\ndocker pod.\n\n\nTo run a stock image:\n\n\n./run_stock_phpmyadmin.sh\n\n\n\n\n\nTo run as part of a docker pod,\nsee \npod-charlesreid1\n.",
             "title": "Home"
         },
         {
