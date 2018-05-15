@@ -20,8 +20,9 @@ theme:
     icon: 'input'
   font:
     text: 'Roboto'
+    code: 'Roboto Mono'
 pages:
-  - 'Home':         'index.md'
+  - 'Home': 'index.md'
 
 # Extensions
 markdown_extensions:
@@ -30,4 +31,3 @@ markdown_extensions:
       guess_lang: false
   - toc:
       permalink: true
-    code: 'Roboto Mono'
